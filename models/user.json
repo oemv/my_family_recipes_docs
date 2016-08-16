@@ -1,0 +1,9 @@
+{
+  "user": {
+    "_id": 12345,
+    "display_image": "/users/12345.jpg",
+    "email": "oscar1_@hotmail.com",
+    "password": "foobar",
+    "display_name": "Oscarin"
+  }
+}

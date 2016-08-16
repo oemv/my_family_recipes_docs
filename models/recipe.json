@@ -1,0 +1,37 @@
+{
+  "name": "Tacos al pastor",
+  "prep_time": "120 minutes",
+  "servings": 4,
+  "ingredients": [
+    {
+      "amount": "8",
+      "name": "Chiles cascabel"
+    },
+    {
+      "amount": "1/4 taza",
+      "name": "Vinagre de manzana"
+    }
+  ],
+  "directions": [
+    "Se ponen a dorar los chiles",
+    "se muelten con el ajo, se deja reposar..."
+  ],
+  "images": [
+    "images/169376/12345_1.jpg",
+    "images/169376/12345_2.jpg"
+  ],
+  "keywords": [
+    "Tacos", "Mexican"
+  ],
+  "comments": [
+    {
+      "user": {
+        "id": 12345,
+        "display_name": "Oscarin",
+        "image_url": "/images/12345_oscar.jpg"
+      },
+      "comment": "Con una coca saben deliciosos",
+      "created_on": "Apr 07, 2016"
+    }
+  ]
+}
